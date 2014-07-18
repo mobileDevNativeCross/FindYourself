@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>319321DF-909B-4C6D-80F3-3820C2944489</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ColorsFramework</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5675EBB3-401C-4B97-AD7A-E160DBF29641</key>
+		<string>ssh://82.80.235.33:22/Git/IOS/colorsFrameworkV2</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Applications/new technology apps/colors V2 framework/ColorsFramework.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5675EBB3-401C-4B97-AD7A-E160DBF29641</key>
+		<string>../..</string>
+		<key>D0486B8F-4200-4C47-9806-1F62E1A220E3</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://82.80.235.33:22/Git/IOS/colorsFrameworkV2</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D0486B8F-4200-4C47-9806-1F62E1A220E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5675EBB3-401C-4B97-AD7A-E160DBF29641</string>
+			<key>IDESourceControlWCCName</key>
+			<string>colors V2 framework</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D0486B8F-4200-4C47-9806-1F62E1A220E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Work</string>
+		</dict>
+	</array>
+</dict>
+</plist>
